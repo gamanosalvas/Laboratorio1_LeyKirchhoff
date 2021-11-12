@@ -39,8 +39,12 @@ La fuente de voltaje es de 10 Voltios lo cual se tiene que consumir en las resis
 Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/94025287/141498800-95c6cbda-2a53-4d39-bf1f-d09cdaf3d767.png)
-
-
+![image](https://user-images.githubusercontent.com/94025287/141500686-5547dff9-c411-4d0c-9c5f-63fd3e9bae79.png)
+![image](https://user-images.githubusercontent.com/94025287/141500898-39522d2a-e6a3-443f-b5e1-e1b17e621a78.png)
+![image](https://user-images.githubusercontent.com/94025287/141501373-010595c2-256f-41d1-b6d9-fbce9d235d0e.png)
+![image](https://user-images.githubusercontent.com/94025287/141501932-228a6675-8cfe-4c72-9bc0-0c869516c7f4.png)
+![image](https://user-images.githubusercontent.com/94025287/141502911-e3312c05-4255-482d-bc06-6934e8b32088.png)
+![image](https://user-images.githubusercontent.com/94025287/141503529-0e42ee96-ced7-4d2d-a586-66234c311e32.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
