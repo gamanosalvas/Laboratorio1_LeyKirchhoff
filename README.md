@@ -82,6 +82,8 @@ Se concluye que haciendo los cálculos analiticamante  se obtiene el mismo valor
 
 5. VIDEO
 
+https://youtu.be/UH0xeactmQY
+
 
 6. CONCLUSIONES
 
