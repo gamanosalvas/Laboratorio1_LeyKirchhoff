@@ -41,7 +41,14 @@ La fuente de voltaje es de 10 Voltios lo cual se tiene que consumir en las resis
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+![image](https://user-images.githubusercontent.com/94025287/141492021-ec0c6554-8551-48be-8ef4-b7ec08a563f1.png)
+![image](https://user-images.githubusercontent.com/94025287/141492069-250e41e8-0fbb-4d0c-9b70-ad44bc9eeeca.png)
+![image](https://user-images.githubusercontent.com/94025287/141492224-0b80ba05-e92d-409d-b3ad-e5f49ef002e8.png)
+![image](https://user-images.githubusercontent.com/94025287/141493337-de7ed612-ed8b-4fff-8c75-91f9ad6a9f9c.png)
+
+SIMULADOR
+![image](https://user-images.githubusercontent.com/94025287/141493384-e8984966-4d2a-485c-9f86-bcdef3c37249.png)
+
 
 5. VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
