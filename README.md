@@ -27,12 +27,27 @@ Objetivos Específicos:
 
 
 
-2. MARCO TEÓRICO (RESUMEN)
+2. MARCO TEÓRICO 
 ![image](https://user-images.githubusercontent.com/94025287/141489224-6d31d9a9-1198-49e0-a5e0-29577ce4a71f.png)
 ![image](https://user-images.githubusercontent.com/94025287/141489329-3653082a-1560-4cd8-bf03-f6f10ddbc0e8.png)
 
-ANÁLISIS DEL CIRCUITO DE LA PRÁCTICA.
+3. EXPLICACION DEL PROCEDIMIENTO
+
 Es un circuito mixto de modo que la suma de sus resistencias es diferente en cada malla.
 La fuente de voltaje es de 10 Voltios lo cual se tiene que consumir en las resistencias y provocan caídas de voltaje.
 
+
+
+
+4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+En este punto se contestará todo lo planteado en las guías.
+
+5. VIDEO
+Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
+
+6. CONCLUSIONES
+Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+
+7. BIBLIOGRAFÍA
 
