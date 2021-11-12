@@ -33,12 +33,13 @@ Objetivos Específicos:
 
 3. EXPLICACION DEL PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/94025287/141494122-056f385c-4fa1-4daa-841f-a60f990b3130.png)
-
 Es un circuito mixto de modo que la suma de sus resistencias es diferente en cada malla.
 El flujo de la corriente en la malla 2 es en parelelo tal que el amperaje es el mismo para las dos resistencias.
 La fuente de voltaje es de 10 Voltios lo cual se tiene que consumir en las resistencias y provocan caídas de voltaje.
 Suma de las resistencias en serie.
+
+![image](https://user-images.githubusercontent.com/94025287/141498800-95c6cbda-2a53-4d39-bf1f-d09cdaf3d767.png)
+
 
 
 
