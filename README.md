@@ -8,7 +8,8 @@ Parcial: 1
 
 Laboratorio Nro: 1
 
-TEMA: Leyes de Kirchoff
+TEMA: Leyes de Kirchhoff
+
 OBJETIVOS
 Objetivo General:
 
