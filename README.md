@@ -85,3 +85,4 @@ del nodo. Anote los resultados en la tabla 1.3.
 
 7. BIBLIOGRAFÍA
 
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
