@@ -68,6 +68,9 @@ del nodo. Anote los resultados en la tabla 1.3.
 ![image](https://user-images.githubusercontent.com/94025287/141493985-4c2b98cf-4772-4fe9-8420-59f6e889b1f6.png)
 
 
+Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+Se concluye que haciendo los cálculos analiticamante  se obtiene el mismo valor cuando se conecta el amperaje o voltaje ya que los valores no deberían varian y en el caso de hacerlo el margen no es mucho
 
 
 5. VIDEO
