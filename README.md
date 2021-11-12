@@ -73,6 +73,8 @@ del nodo. Anote los resultados en la tabla 1.3.
 5. VIDEO
 
 
+6. CONCLUSIONES
+
 •	En el circuito de la practica la corriente entra a los nodos 1, 2 y la corriente se distribuye por las ramas que conforman el nodo.
 
 •	La fuente de voltaje que suministra energía se tiene que equilibrar por lo que se esta perdiendo en las caídas de potencia.
