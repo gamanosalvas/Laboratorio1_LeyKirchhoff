@@ -72,7 +72,12 @@ del nodo. Anote los resultados en la tabla 1.3.
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
 6. CONCLUSIONES
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+
+•	En el circuito de la practica la corriente entra a los nodos 1, 2 y la corriente se distribuye por las ramas que conforman el nodo.
+•	La fuente de voltaje que suministra energía se tiene que equilibrar por lo que se esta perdiendo en las caídas de potencia.
+•	Las resistencias se encargan de absorber la energía y hace que la corriente se frene, como consecuencia se produce la caída de voltaje.
+•	Con la práctica de laboratorio se encontró de forma teórica los valores de corriente que fluye por el circuito y su caída de voltaje.
+
 
 7. BIBLIOGRAFÍA
 
