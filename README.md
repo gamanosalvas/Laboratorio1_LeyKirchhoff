@@ -49,6 +49,17 @@ La fuente de voltaje es de 10 Voltios lo cual se tiene que consumir en las resis
 SIMULADOR
 ![image](https://user-images.githubusercontent.com/94025287/141493384-e8984966-4d2a-485c-9f86-bcdef3c37249.png)
 
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo. Anote los resultados en la tabla 1.2.
+
+
+
+
+
+Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomandocon signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla 1.3.
+
+
 
 5. VIDEO
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
